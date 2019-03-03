@@ -1,7 +1,5 @@
 {
     "token" : "nabacan",
-	"api" : "nabacan",
 	"adminID" : "411795281219420190",
-    "prefix" : "g!",
-	"passes" : 1
+    "prefix" : "g!"
 }
